@@ -21,6 +21,9 @@ public class   WatchDetails{
                 System.out.println("Battery Capacity::"+batteryCapacity);
                 System.out.println("Color::"+color);
                 System.out.println("Bluetooth Compatibility::"+bluetooth);
+/* perfect one
+
+*/
                                 
             } 
         }
