@@ -1,0 +1,27 @@
+public class   WatchDetails{
+           public static void main(String[] args){
+                // declaration of data type;
+                String model = "Noise HRX Bounce";
+                String brand = "Noise";
+                double price = 2999;
+                String display = "1.39inch,Touch";
+                String displayDesign = "Circle";
+                String batteryCapacity = "Upto 7 days";
+                String color ="Gray";
+                double bluetooth = 5.0;
+                String bluetoothCall = "Available";
+                String compatibleOs = "Android,IOS";
+                String features = "Water Resistance,Dust Proof,Scratch Resistance,Test Message,Incomeing call,Alaram clock,wheather,Pedometer,Heart rate moniter,Step count,Calorie count,SPO2 moniter,Sleep moniter,Multiple sports mode";
+
+                System.out.println("Model::"+ model);
+                System.out.println("Brand::"+brand);
+                System.out.println("Price::"+2999);
+                System.out.println("Display Size::"+display);
+                System.out.println("Display Desisgn::"+diplayDesign);
+                System.out.println("Battery Capacity::"+batteryCapacity);
+                System.out.println("Color::"+color);
+                System.out.println("Bluetooth Compatibility::"+bluetooth);
+                                
+            } 
+        }
+     
